@@ -6,7 +6,7 @@
             "segments": [
                 {
                     "background": "transparent",
-                    "foreground": "#c5c32b",
+                    "foreground": "#CCCCCC",
                     "properties": {
                         "time_format": "15:04:05"
                     },
