@@ -29,6 +29,7 @@
                 {
                     "background": "#c5c32b",
                     "foreground": "#193549",
+                    "leading_diamond": "\ue0b0",
                     "powerline_symbol": "\ue0b0",
                     "properties": {
                         "style": "full"
