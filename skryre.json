@@ -23,13 +23,12 @@
                     "background": "transparent",
                     "foreground": "#c5c32b",
                     "style": "plain",
-                    "template": "{{ if .WSL }}WSL at {{ end }}{{.Icon}} ",
+                    "template": "{{ if .WSL }}WSL at {{ end }}{{.Icon}}  ",
                     "type": "os"
                 },
                 {
                     "background": "#c5c32b",
                     "foreground": "#193549",
-                    "trailing_diamond": "\ue0b0",
                     "powerline_symbol": "\ue0b0",
                     "properties": {
                         "style": "full"
@@ -40,7 +39,7 @@
                 },
                 {
                     "background": "#193549",
-                    "foreground": "#c5c32b",
+                    "foreground": "#CCCCCC",
                     "powerline_symbol": "\ue0b0",
                     "properties": {
                         "style": "full"
