@@ -40,7 +40,7 @@
         },
         {
           "background": "#292929",
-          "foreground": "#46C1E0",
+          "foreground": "#e2e2e2",
           "foreground_templates": [
             "{{ if or (.Working.Changed) (.Staging.Changed) }}#FF9248{{ end }}",
             "{{ if and (gt .Ahead 0) (gt .Behind 0) }}#ff4500{{ end }}",
